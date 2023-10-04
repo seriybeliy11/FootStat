@@ -1,0 +1,37 @@
+[
+  {
+    "Date": "2022-06-13T09:39:52Z",
+    "ClosedApprovedIssues": "10",
+    "ClosedTotalIssues": "13"
+  },
+  {
+    "Date": "2022-08-13T09:39:52Z",
+    "ClosedApprovedIssues": "25",
+    "ClosedTotalIssues": "56"
+  },
+  {
+    "Date": "2022-10-13T09:39:52Z",
+    "ClosedApprovedIssues": "44",
+    "ClosedTotalIssues": "93"
+  },
+  {
+    "Date": "2022-12-13T09:39:52Z",
+    "ClosedApprovedIssues": "51",
+    "ClosedTotalIssues": "122"
+  },
+  {
+    "Date": "2023-02-01T00:00:00Z",
+    "ClosedApprovedIssues": "64",
+    "ClosedTotalIssues": "152"
+  },
+  {
+    "Date": "2023-04-01T00:00:00Z",
+    "ClosedApprovedIssues": "69",
+    "ClosedTotalIssues": "170"
+  },
+  {
+    "Date": "2023-06-01T00:00:00Z",
+    "ClosedApprovedIssues": "69",
+    "ClosedTotalIssues": "176"
+  }
+]
