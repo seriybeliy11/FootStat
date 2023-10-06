@@ -24,7 +24,7 @@ cd FootStat
 Now you have a local copy of the project on your computer. You can make changes, work with the code, and push your changes back to GitHub.
 
 ## 2 Step: Getting Started with npm/npx (For Different Platforms)
-For Windows:
+### For Windows:
 1) Install Node.js:
 2) Download and install Node.js from the official website: Node.js Download
 3) Open a Command Prompt or PowerShell:
@@ -36,7 +36,7 @@ For Windows:
 node -v
 npm -v
 ```
-For MacOS:
+### For MacOS:
 1) Install Node.js:
 2) Install Node.js using Homebrew or download it from the official website: Node.js Download
 ```
@@ -50,7 +50,7 @@ brew install node
 node -v
 npm -v
 ```
-For Linux (Debian/Ubuntu):
+### For Linux (Debian/Ubuntu):
 1) Install Node.js:
 2) Use the package manager to install Node.js:
 ```
